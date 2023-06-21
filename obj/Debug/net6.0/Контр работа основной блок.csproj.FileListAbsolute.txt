@@ -1,0 +1,15 @@
+/Users/valeriadunets/Desktop/Контр работа основной блок/bin/Debug/net6.0/Контр работа основной блок
+/Users/valeriadunets/Desktop/Контр работа основной блок/bin/Debug/net6.0/Контр работа основной блок.deps.json
+/Users/valeriadunets/Desktop/Контр работа основной блок/bin/Debug/net6.0/Контр работа основной блок.runtimeconfig.json
+/Users/valeriadunets/Desktop/Контр работа основной блок/bin/Debug/net6.0/Контр работа основной блок.dll
+/Users/valeriadunets/Desktop/Контр работа основной блок/bin/Debug/net6.0/Контр работа основной блок.pdb
+/Users/valeriadunets/Desktop/Контр работа основной блок/obj/Debug/net6.0/Контр работа основной блок.csproj.AssemblyReference.cache
+/Users/valeriadunets/Desktop/Контр работа основной блок/obj/Debug/net6.0/Контр работа основной блок.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriadunets/Desktop/Контр работа основной блок/obj/Debug/net6.0/Контр работа основной блок.AssemblyInfoInputs.cache
+/Users/valeriadunets/Desktop/Контр работа основной блок/obj/Debug/net6.0/Контр работа основной блок.AssemblyInfo.cs
+/Users/valeriadunets/Desktop/Контр работа основной блок/obj/Debug/net6.0/Контр работа основной блок.csproj.CoreCompileInputs.cache
+/Users/valeriadunets/Desktop/Контр работа основной блок/obj/Debug/net6.0/Контр работа основной блок.dll
+/Users/valeriadunets/Desktop/Контр работа основной блок/obj/Debug/net6.0/refint/Контр работа основной блок.dll
+/Users/valeriadunets/Desktop/Контр работа основной блок/obj/Debug/net6.0/Контр работа основной блок.pdb
+/Users/valeriadunets/Desktop/Контр работа основной блок/obj/Debug/net6.0/Контр работа основной блок.genruntimeconfig.cache
+/Users/valeriadunets/Desktop/Контр работа основной блок/obj/Debug/net6.0/ref/Контр работа основной блок.dll
